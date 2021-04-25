@@ -1,0 +1,10 @@
+## Folders
+lib/
+logs/
+node_modules/
+
+## Compiled JavaScript files
+**/*.js
+**/*.js.map
+
+.env
